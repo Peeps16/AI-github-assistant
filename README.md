@@ -60,8 +60,8 @@ GOOGLE_API_KEY=your-gemini-key
 ### Step 1: Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/github-issue-analyzer.git
-cd github-issue-analyzer
+git clone https://github.com/Peeps16/AI-github-assistant
+cd AI-github-assistant
 ```
 
 ### Step 2: Install Dependencies
@@ -147,12 +147,6 @@ python-dotenv
 PES University | PES1UG21CS445  
 Intern @ Juniper Networks  
 Submitted for Seedling Labs LLM Challenge
-
----
-
-## 📄 License
-
-MIT License. See [LICENSE](LICENSE) for more info.
 
 ---
 
