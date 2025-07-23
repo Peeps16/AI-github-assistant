@@ -141,12 +141,6 @@ python-dotenv
 
 ---
 
-## 📸 Screenshots
-
-![Streamlit UI](https://user-images.githubusercontent.com/your-screenshot.png)
-
----
-
 ## 👨‍💻 Author
 
 **Pratyush Pankaj**  
